@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const guidesData = {
   City: [
-    { name: "Roma", img: "./images/1.roma.jpg" },
+    { name: "Roma", img: "./images/1.Roma.jpg" },
     { name: "Barcellona", img: "./images/2.barcellona.webp" },
     { name: "Lisbona", img: "./images/3.Lisbona.jpg" },
     { name: "Santorini", img: "./images/4.Santorini.avif" },
